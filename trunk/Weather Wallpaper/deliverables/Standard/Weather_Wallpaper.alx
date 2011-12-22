@@ -1,0 +1,31 @@
+<loader version="1.0">
+	<application id="Weather_Wallpaper">
+		<name >
+			Weather Wallpaper
+		</name>
+		<description >
+			Changes the wallpaper depending on the weather
+		</description>
+		<version >
+			1.0.0
+		</version>
+		<vendor >
+			Nick Garvey
+		</vendor>
+		<copyright >
+			Copyright (c) 2011 Nick Garvey
+		</copyright>
+		<fileset Java="1.54" _blackberryVersion="[7.0.0)">
+			<directory >
+				7.0.0
+			</directory>
+			<files >
+				Weather_Wallpaper.cod
+
+			</files>
+
+		</fileset>
+
+	</application>
+
+</loader>
