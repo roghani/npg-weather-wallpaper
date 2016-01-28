@@ -1,0 +1,1 @@
+Changes the wallpaper on Android according to the weather. This will use the Google Weather API. However, care will be taken to not build too heavily around that API as it is not officially supported.
